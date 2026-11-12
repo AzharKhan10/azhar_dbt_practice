@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+./azhar_dbt_practice/profiles.yml
+./azhar_dbt_practice/dbt_packages/
+./azhar_dbt_practice/logs/
+./azhar_dbt_practice/target
+.env
+./logs
+**/profiles.yml
